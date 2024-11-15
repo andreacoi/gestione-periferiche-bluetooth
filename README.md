@@ -10,11 +10,11 @@ Ovviamente prima di passare allo script in bash (di cui riporto i sorgenti) ho s
 
 Per realizzare questo script in bash ho utilizzato i seguenti tool:
 
-- bash (ovviamente :) );
-- awk (gestione output);
-- grep (ricerca stringhe in output);
-- xinput (gestione periferiche collegate - abilitazione, disabilitazione e check status);
-- bluetoothctl (check status singole periferiche Bluetooth);
+- `bash` (ovviamente :) );
+- `awk` (gestione output);
+- `grep` (ricerca stringhe in output);
+- `xinput` (gestione periferiche collegate - abilitazione, disabilitazione e check status);
+- `bluetoothctl` (check status singole periferiche Bluetooth);
 
 ## Evoluzione degli Script
 
