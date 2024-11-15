@@ -46,3 +46,5 @@ Ad ogni avvio `fake-polling.sh` ad ogni secondo invoca gli script di controllo d
 
 Per il posizionamento degli script occorre modificare il percorso in `fake-polling.sh`.
 Personalmente ho una directory `sys/autostart` nella root della directory utente `/home/utente/`.
+Al momento viene utilizzata la variabile d'ambiente `$HOME` per recuperare _dinamicamente_ la directory utente.
+Per la modifica, consiglio di eseguirla "in locale", o al limite, di eseguire un fork del codice da questo repo GIT.
