@@ -40,4 +40,4 @@ Ho impostato `fake-polling.sh` come script di avvio di sessione su KDE.
 
 ## Ciclo di vita e funzionamento
 
-Ad ogni avvio `fake-polling.sh` ad ogni secondo invoca gli script di controllo del collegamento della tastiera Bluetooth e del mouse Bluetooth. Se tastiera e mouse sono abilitati e tastiera integrato sono abilitati disabilita quelli integrati (SE NON SONO GIÀ STATI DISABILITATI), altrimenti se una delle due periferiche bluetooth viene spenta riabilita la sua omologa integrata.
+Ad ogni avvio `fake-polling.sh` ad ogni secondo invoca gli script di controllo del collegamento della tastiera Bluetooth e del mouse Bluetooth. Se tastiera e mouse bluetooth sono abilitati e tastiera e mouse integrati sono abilitati disabilita quelli integrati (SE NON SONO GIÀ STATI DISABILITATI), altrimenti se una delle due periferiche bluetooth viene spenta riabilita la sua omologa integrata.
