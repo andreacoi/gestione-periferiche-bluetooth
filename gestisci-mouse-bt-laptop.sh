@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Nome o parte del nome della tastiera Bluetooth
-MOUSE_BLUETOOTH_LOGITECH_MAC="F3:C6:28:30:A8:3E"
+MOUSE_BLUETOOTH_LOGITECH_MAC="F3:C6:28:30:A8:3F"
 
 # Nome o parte del nome della tastiera del laptop - da xinput risulta standard come AT Translated Set 2 keyboard
 LAPTOP_TOUCHPAD_NAME="Synaptics TM3336-005"
