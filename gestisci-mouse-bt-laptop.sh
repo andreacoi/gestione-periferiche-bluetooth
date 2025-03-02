@@ -1,6 +1,6 @@
 #!/bin/bash
 # Nome o parte del nome della tastiera Bluetooth
-MOUSE_BLUETOOTH_LOGITECH_MAC="F3:C6:28:30:A8:3F"
+MOUSE_BLUETOOTH_LOGITECH_MAC="F3:C6:28:30:A8:41"
 # Nome o parte del nome del touchpad del laptop - da cat /proc/bus/input/devices risulta standard come Synaptics TM3336-005
 LAPTOP_TOUCHPAD_NAME="Synaptics TM3336-005"
 # Nome fisico del touchpad, equiparabile al MAC ADDRESS
